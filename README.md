@@ -2,6 +2,8 @@
 
 SSDI-based federated data partition generator.
 
+SSDI ranges from 0 to 1, where `0` denotes an IID partition and larger values indicate stronger heterogeneity.
+
 ## Install
 
 ```bash
